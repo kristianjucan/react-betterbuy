@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10f7422a.css",
+    "main.js": "/static/js/main.e05fb9ef.js",
+    "static/js/787.8524704a.chunk.js": "/static/js/787.8524704a.chunk.js",
+    "static/media/banner1.png": "/static/media/banner1.44e6b92d31c0d77a160c.png",
+    "static/media/aboutUs.jpg": "/static/media/aboutUs.4b86fd5a2d0313f8cb99.jpg",
+    "static/media/banner2.png": "/static/media/banner2.698d81915951352192bb.png",
+    "static/media/banner3.png": "/static/media/banner3.76ff68450981e44e96f4.png",
+    "static/media/better_buy-transparent.png": "/static/media/better_buy-transparent.70f7daa09b2825439e37.png",
+    "index.html": "/index.html",
+    "main.10f7422a.css.map": "/static/css/main.10f7422a.css.map",
+    "main.e05fb9ef.js.map": "/static/js/main.e05fb9ef.js.map",
+    "787.8524704a.chunk.js.map": "/static/js/787.8524704a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10f7422a.css",
+    "static/js/main.e05fb9ef.js"
+  ]
+}
